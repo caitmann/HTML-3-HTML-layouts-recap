@@ -1,0 +1,36 @@
+span {
+    display: inline-block;
+}
+
+#pic img {
+    width: 800px;
+    height: 450px;
+}
+
+#icons span {
+    margin: 8px 12px;
+    font-size: 24px;
+}
+
+#mini-layout {
+    display: inline-block;
+}
+
+#mini-layout img {
+    height: 60px;
+    width: 100px;
+}
+
+#mini-layout span {
+    width: 23%;
+    align-content: space-evenly;
+}
+
+#mini-layout span div {
+    margin: 2px;
+}
+
+body {
+    text-align: center;
+    text-wrap: wrap;
+}
